@@ -12,3 +12,13 @@ example
 ./extended_QC_CIVET.sh CC220713 /data4/yzeighami/CamCAN_civet_beluga/CamCAN_beluga_CIVET_211/CC220713 /tmp/
 ```
 
+LP_clp_to_CIVET_t1t2_ratio.sh:
+
+....
+
+example:
+
+```bash
+./LP_clp_to_CIVET_t1t2_ratio.sh /data4/yzeighami/CamCAN_civet_beluga/CamCAN_beluga_CIVET_211 /data4/yzeighami/CamCAN_Long_Mahsa/LP_2013 CC220526
+```
+
