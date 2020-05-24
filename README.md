@@ -1,6 +1,6 @@
 # useful_scripts
 
-
+A lot of these scripts are originally written by others, I use them frequently and so they are modified for my usage!
 
 extended_QC_CIVET.sh :
 
